@@ -4,5 +4,6 @@
 This is your new Page
 <h1>Hey there pls welcome!!!...</h1>
 <h1>Love yourself..</h1>
+<button>Okay!!</button>
 <!-- End Default Content REMOVE THIS -->
 </apex:page>
